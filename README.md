@@ -13,3 +13,5 @@
 6. distance_correlation_TEST.py is tended to use for caculate eye tracking trajectory
 
 7. plot.py (FOR SVC)
+
+8. Calculate Copula Entropy for feature selection
